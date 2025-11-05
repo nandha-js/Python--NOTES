@@ -1,7 +1,7 @@
 # Heading: Print Function in Python
 
 ### Syntax: print()
-```python
+      
 # ==========================
 #        Basic Syntax
 # ==========================
