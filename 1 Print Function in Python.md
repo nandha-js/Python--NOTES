@@ -1,24 +1,13 @@
 # Heading: Print Function in Python
 
 ### Syntax: print()
-      
-# ==========================
-#        Basic Syntax
-# ==========================
-print(object, sep=' ', end='\n')
 
-
-# ==========================
-#        🔍 Breakdown
-# ==========================
+# 🔍 Breakdown
 # object : The value(s) you want to print (text, variable, number, etc.)
 # sep    : Separator between multiple values (default = space ' ')
 # end    : Character printed at the end (default = newline '\n')
 
-
-# ==========================
-#        💻 Examples
-# ==========================
+# 💻 Examples
 print("Hello, World!")                    # Simple text
 print("Python", "is", "fun")              # Prints with spaces
 print("Python", "is", "fun", sep='-')     # Custom separator
@@ -28,16 +17,10 @@ print("World!")                           # Output: Hello World!
 name = "Nandha"
 print(f"My name is {name}")               # Using f-string formatting
 
-
-# ==========================
-#        💡 Tip
-# ==========================
+# 💡 Tip
 # Combine text and variables easily using f-strings.
 # Use 'sep' and 'end' to customize output format.
 
-
-# ==========================
-#        ✅ In Short
-# ==========================
+# ✅ In Short
 # The print() function displays output on the screen.
 # You can customize separators and line endings as needed.
