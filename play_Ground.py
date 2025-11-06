@@ -1,7 +1,9 @@
-#average of two numbers 
-a = int(input("A = "))
-b = int(input("B = "))
+a = 10 
+b = 20 
 
-avg = (a+b)/2
+print("before : ",  a , b)
 
-print(avg)
+temp=a
+a=b
+b=temp
+print("After : ",  a , b)
